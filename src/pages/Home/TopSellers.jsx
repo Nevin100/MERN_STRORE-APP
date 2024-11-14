@@ -10,9 +10,9 @@ const categories = [
   "Choose a genre",
   "Business",
   "Fiction",
-  "Articles",
+  "marketing",
   "Horror",
-  "Adventures",
+  "adventure",
 ];
 
 const TopSellers = () => {
