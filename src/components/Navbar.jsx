@@ -16,6 +16,7 @@ const Navbar = () => {
     { name: "Orders", href: "/orders" },
     { name: "Cart Page", href: "/cart" },
     { name: "CheckOut", href: "/checkout" },
+    { name: "Logout", href: "/login" },
   ];
   return (
     <>
